@@ -55,7 +55,7 @@ A continuación se muestran capturas reales de cómo el bot notifica a los emple
 ### 📦 Productos listos para despachar
 
 <p align="center">
-  <img src="./imagenes/notificacion-despacho.png" width="500"/>
+  <img src="./images/notificacion-despacho.png" width="500"/>
 </p>
 
 El bot detecta automáticamente cuándo un producto cambia de estado a “pendiente para entregar” y envía un mensaje al empleado responsable. Incluye:
@@ -70,7 +70,7 @@ El bot detecta automáticamente cuándo un producto cambia de estado a “pendie
 ### ✅ Pedidos entregados con saldo pendiente
 
 <p align="center">
-  <img src="./imagenes/pedido-entregado-con-deuda.png" width="500"/>
+  <img src="./images/pedido-entregado.png" width="500"/>
 </p>
 
 Cuando un pedido se marca como entregado pero aún queda un saldo por cobrar, el bot notifica al empleado con una advertencia clara. Incluso puede sugerir que se le envíe un mensaje promocional al cliente (ej: participar en una ruleta o campaña).
