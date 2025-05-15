@@ -96,11 +96,6 @@ Estas notificaciones se generan automáticamente cada 5 minutos gracias a un sis
 ✅ Evita errores o pedidos olvidados  
 ✅ Mejora el seguimiento interno
 
----
-
-## 🔐 Código
-
-Este proyecto está en uso privado y el código no se encuentra publicado. Sin embargo, toda la lógica y el funcionamiento están detallados en este documento.
 
 ---
 
